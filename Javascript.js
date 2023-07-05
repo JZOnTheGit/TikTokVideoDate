@@ -23,7 +23,7 @@ function binarytodecimal(){
     var el = document.createElement('a');
     el.href = document.getElementById('Link').value;
     //split the pathname from / to get the second level location
-    var secondLevelLocation = el.pathname.split('/')[3];
+    var secondLevelLocation = el.pathname.split('/')[2];
 
 
     let value = secondLevelLocation
