@@ -22,11 +22,17 @@ html {
   h3{
     color: #fff;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 5px;
+  }
+
+  h4{
+    color: #fff;
+    text-align: center;
+    margin-top: 350px;
   }
 
   div.socials{
-    margin-top: 20px;
+    margin-top: 400px;
     color: #fff;
   }
   
